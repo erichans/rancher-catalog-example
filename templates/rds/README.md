@@ -1,1 +1,1 @@
-# RDS - Remote DevOps Station Bla Bla Bla
+# RDS - Remote DevOps Station Panic!
